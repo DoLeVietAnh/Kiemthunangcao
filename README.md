@@ -112,5 +112,15 @@ public class BinaryTreeUtils {
 - Vị trí: ```test/java/BinaryTreeUtilsTest```
 - Chức năng: Chứa các kiểm thử sử dụng JUnit để đảm bảo thuật toán hoạt động đúng với các tình huống khác nhau.
 
+## Mức độ bao phủ ```Test Coverage```
+- Class: 100% (2/2)
+- Method: 100% (2/2)
+- Line: 100% (7/7)
+- Branch: 100% (6/6)
+![image](https://github.com/user-attachments/assets/aeb5a2d6-df31-41a5-99b3-f9e0588a037b)
+
+
 ## Kết quả kiểm thử
 Khi chạy ```JUnit``` kết quả trả được về:![image](https://github.com/user-attachments/assets/3499dfd8-4ceb-47de-9fd4-1f9fa4e55152)
+
+Link lịch sử ChatGPT: **```https://chatgpt.com/share/6780b5fa-40b4-800c-bce6-a9b1976cb02c```**
