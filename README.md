@@ -15,16 +15,17 @@ Nó bao gồm các cấu trúc dữ liệu cơ bản, các trường hợp kiể
     - Cây chứa giá trị âm.
 
 ## Cấu trúc dự án
-├── src/
-│   ├── main/
-│   │   ├── java/
-│   │   │      └── TreeNode.java         # Lớp định nghĩa cây nhị phân
-│   │   │      └── BinaryTreeUtils.java  # Lớp chứa thuật toán tìm kiếm
-│   ├── test/
-│   │   ├── java/
-│   │          └── BinaryTreeUtilsTest.java  # Các trường hợp kiểm thử JUnit
-├── README.md                              # Tệp tài liệu dự án
-└── pom.xml                                # Tệp cấu hình Maven
+
+    ├── src/
+    │   ├── main/
+    │   │   ├── java/
+    │   │   │      └── TreeNode.java         # Lớp định nghĩa cây nhị phân
+    │   │   │      └── BinaryTreeUtils.java  # Lớp chứa thuật toán tìm kiếm
+    │   ├── test/
+    │   │   ├── java/
+    │   │          └── BinaryTreeUtilsTest.java  # Các trường hợp kiểm thử JUnit
+    ├── README.md                              # Tệp tài liệu dự án
+    └── pom.xml                                # Tệp cấu hình Maven
 
 ## Hướng dẫn sử dụng
 ### 1. Cài đặt
